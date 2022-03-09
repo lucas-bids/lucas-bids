@@ -4,7 +4,7 @@ Frontend Developer and lifelong learner. Open to new job opportunities. Currentl
 
 ## Wait a minute. Who are you?
 
-I'm passionate about creating interfaces and apps for humans to get the best out of technology.
+I'm passionate about creating interfaces and apps for people to get the best out of technology.
 I spent most of my professional days working as a freelancer for marketing agencies or starting my own companies, always seeing things from a technical point of view - from web development (mostly HTML, CSS and Wordpress) to marketing tools and analysis.<br><br>
 Aside from freelancing to the German speaking folks, I'm currently building my portfolio using HTML, CSS, JS and React JS. My goal is to leave the Freelancer days behind and find a more stable job as a Frontend Devloper.<br><br>
 I also have a long experience with academic illustration, painting and digital illustration - ever since I could hold a pencil. Even though I carry it mostly as a hobby, it’s always good to have that skill to make web interfaces and the internet a more humane place.
