@@ -15,7 +15,7 @@ I also have a long experience with academic illustration, painting and digital i
 * **Status**: Freelancing, looking for a more stable job as a Frontend Developer
 * **Age**: 27
 * **Living in**: Curitiba, Brazil
-* **Technologies**: HTML, CSS, JS, React JS, Git, GitHub, Wordpress
-* **Languages**: Portuguese 🇧🇷 , Spanish 🇦🇷 , English 🇺🇸 , German 🇩🇪 (All fluent)
+* **Technologies**: HTML, CSS, JS, React JS, Git, GitHub, Wordpress, Figma, Redux
+* **Languages**: Portuguese 🇧🇷, Spanish 🇦🇷, English 🇬🇧, German 🇩🇪 (All fluent)
 * **University**: Industrial Engineering undergraduate, Product Design dropout
 * **Miscellaneous**: Painting, Digital Illustration (PS, AI), Facebook, Google Ads, Google Analytics, Google Tag Manager
