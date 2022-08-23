@@ -1,5 +1,7 @@
 <h1>Hello, my name is Lucas ✌️</h1>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vidal-de-andrade/)
+<a href="https://www.linkedin.com/in/lucas-vidal-de-andrade/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 Currently freelancing as technical support for digital marketing agencies in Germany, Austria, Switzerland and Brazil. Managing more than 15 clients and a team with more than 10 people from different backgrounds and cultures. Worked with HTML, CSS and Wordpress for the past 9 years and studied the JS/React ecosystem for the past 2. Looking forward to working and learning with more robust tech teams.<br><br>
 **Languages**: Portuguese 🇧🇷, Spanish 🇦🇷, English 🇬🇧, German 🇩🇪 (All fluent)
