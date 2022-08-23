@@ -1,21 +1,33 @@
-## Hello, my name is Lucas ✌️
+<h1>Hello, my name is Lucas ✌️</h1>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vidal-de-andrade/)
 
-Frontend Developer and lifelong learner. Open to new job opportunities. Currently Freelancing for companies in Germany, Austria and Switzerland. This GitHub Profile is a fresh one, I hope you enjoy checking out my journey.
+Currently freelancing as technical support for digital marketing agencies in Germany, Austria, Switzerland and Brazil. Managing more than 15 clients and a team with more than 10 people from different backgrounds and cultures. Worked with HTML, CSS and Wordpress for the past 9 years and studied the JS/React ecosystem for the past 2. Looking forward to working and learning with more robust tech teams.<br><br>
+**Languages**: Portuguese 🇧🇷, Spanish 🇦🇷, English 🇬🇧, German 🇩🇪 (All fluent)
 
-## Wait a minute. Who are you?
+## Technologies
 
-I'm passionate about creating interfaces and apps for people to get the best out of technology.
-I spent most of my professional days working as a freelancer for marketing agencies or starting my own companies, always seeing things from a technical point of view - from web development (mostly HTML, CSS and Wordpress) to marketing tools and analysis.<br><br>
-Aside from freelancing to the German speaking folks, I'm currently building my portfolio using HTML, CSS, JS and React JS. My goal is to leave the Freelancer days behind and find a more stable job as a Frontend Developer.<br><br>
-I also have a long experience with academic illustration, painting and digital illustration - ever since I could hold a pencil. Even though I carry it mostly as a hobby, it’s always good to have that skill to make web interfaces and the internet a more humane place.
+<strong>Frontend:</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="30" width="50" />
 
-## Tl;dr;
+<strong>Tools:</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="50" />
+<img src="https://cdn.cdnlogo.com/logos/a/73/asana.svg" height="30" width="50" />
+<img src="https://cdn.cdnlogo.com/logos/n/50/notion.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="50" />
+<img src="https://cdn.cdnlogo.com/logos/p/62/prettier.svg" height="30" width="50" />
 
-* **Name**: Lucas Vidal
-* **Status**: Freelancing, looking for a more stable job as a Frontend Developer
-* **Age**: 27
-* **Living in**: Curitiba, Brazil
-* **Technologies**: HTML, CSS, JS, React JS, Git, GitHub, Wordpress, Figma, Redux
-* **Languages**: Portuguese 🇧🇷, Spanish 🇦🇷, English 🇬🇧, German 🇩🇪 (All fluent)
-* **University**: Industrial Engineering undergraduate, Product Design dropout
-* **Miscellaneous**: Painting, Digital Illustration (PS, AI), Facebook, Google Ads, Google Analytics, Google Tag Manager
+<strong>Design & UI:</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="50" />
