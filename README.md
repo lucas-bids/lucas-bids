@@ -34,7 +34,7 @@ Currently freelancing as technical support for digital marketing agencies in Ger
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="50" />
 
-## Websites I designed and developed using Wordpress:
+## Websites I designed and developed:
 <a href="https://nutricionistagb.com.br/" target="_blank">nutricionistagb.com.br</a><br>
 <a href="http://epya.hireadev.tech/" target="_blank">epya.hireadev.tech</a><br>
 <a href="https://dermatoemcuritiba.com.br/" target="_blank">dermatoemcuritiba.com.br</a><br>
