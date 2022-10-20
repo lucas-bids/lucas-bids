@@ -40,3 +40,7 @@ Currently freelancing as technical support for digital marketing agencies in Ger
 <a href="https://dermatoemcuritiba.com.br/" target="_blank">dermatoemcuritiba.com.br</a><br>
 <a href="http://mitramimoveis.com.br/" target="_blank">mitramimoveis.com.br</a><br>
 <a href="https://pousadazemaria.com.br/" target="_blank">pousadazemaria.com.br</a><br>
+
+
+## My work as an artist and graphic designer:
+<a href="https://hireadev.tech/" target="_blank">hireadev.tech</a><br>
