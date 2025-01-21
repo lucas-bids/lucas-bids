@@ -36,7 +36,7 @@ Currently freelancing as technical support for digital marketing agencies in Ger
 
 ## A few websites I designed and developed:
 <a href="https://nutricionistagb.com.br/" target="_blank">nutricionistagb.com.br</a><br>
-<a href="http://epya.hireadev.tech/" target="_blank">epya.hireadev.tech</a><br>
+<a href="https://epyaarquitetura.com.br/projects/" target="_blank">epyaarquitetura.com.br</a><br>
 <a href="https://dermatoemcuritiba.com.br/" target="_blank">dermatoemcuritiba.com.br</a><br>
 <a href="http://mitramimoveis.com.br/" target="_blank">mitramimoveis.com.br</a><br>
 <a href="https://pousadazemaria.com.br/" target="_blank">pousadazemaria.com.br</a><br>
