@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-Currently freelancing as technical support for digital marketing agencies in Germany, Austria, Switzerland, Spain, Brazil, Mexico, Colombia and Argentina. Managing more than 15 clients and a team with more than 10 people from different backgrounds and cultures. Worked with HTML, CSS and Wordpress for the past 9 years and studied the JS/React ecosystem for the past 2. Looking forward to working and learning with more robust tech teams.<br><br>
+Product-minded technical generalist with experience across frontend development, WordPress, localization, UX, technical support, and digital marketing.<br>Currently working with WPML/OTGS, helping debug multilingual WordPress production issues involving WPML, WooCommerce, PHP, SQL/database problems, hosting environments, performance, and custom localization workflows.<br>I build practical web tools and product-facing interfaces using React, Next.js, TypeScript, Tailwind CSS, WordPress, Firebase, and headless CMS workflows.<br><br>
 **Languages**: Portuguese 🇧🇷, Spanish 🇦🇷, English 🇬🇧, German 🇩🇪 (All fluent)
 
 ## Technologies
